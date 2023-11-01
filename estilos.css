@@ -1,11 +1,16 @@
 *body { 
-    background-color: #16ce97;
+   
 } 
 
 img{ 
     width: 100%;
 }
 
+.principal{
+    background: #eeebea;
+    padding: 30px ;
+}
+            
 h1 { 
     text-align: center; 
 }
@@ -22,3 +27,26 @@ em strong {
     font-size: 20px;
 }
 
+.beneficios{
+    background: #ffffff
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+   display: inline-block; 
+   vertical-align: top;
+   width: 20%;
+   margin-right: 15%;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.imagenbeneficios{
+    width: 50%;
+}
